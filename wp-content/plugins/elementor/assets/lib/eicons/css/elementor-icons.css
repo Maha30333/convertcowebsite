@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_50_0");
-  src: url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_50_0#iefix") format("embedded-opentype"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_50_0") format("woff2"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_50_0") format("woff"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_50_0") format("truetype"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_50_0#eicon") format("svg");
+  src: url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_54_0");
+  src: url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_54_0#iefix") format("embedded-opentype"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_54_0") format("woff2"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_54_0") format("woff"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_54_0") format("truetype"), url("https://maha30333.github.io/convertcowebsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_54_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2053,6 +2053,38 @@
 
 .eicon-upgrade-crown-full:before {
   content: "\ef03";
+}
+
+.eicon-after:before {
+  content: "\ebfa";
+}
+
+.eicon-pagination-item:before {
+  content: "\ebfb";
+}
+
+.eicon-before:before {
+  content: "\ebfc";
+}
+
+.eicon-pagination:before {
+  content: "\ebfd";
+}
+
+.eicon-loop-item:before {
+  content: "\ec00";
+}
+
+.eicon-loop-widget:before {
+  content: "\ec01";
+}
+
+.eicon-x-twitter:before {
+  content: "\ef04";
+}
+
+.eicon-background-video:before {
+  content: "\ea01";
 }
 
 .eicon-eye:before {
